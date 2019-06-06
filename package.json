@@ -30,6 +30,7 @@
     "webpack-dev-server": "^3.4.1"
   },
   "dependencies": {
-    "antd": "^3.19.1"
+    "antd": "^3.19.1",
+    "react-resizable": "^1.8.0"
   }
 }
